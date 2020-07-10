@@ -1,0 +1,80 @@
+.dev-icons {
+  padding-left: 0;
+  list-style: none;
+  font-size: 3rem;
+  margin-bottom: 0px;
+  margin-top: 0px;
+  text-align: center;
+}
+
+.software-skill-inline,
+.htm5-inline,
+.css3-inline,
+.sass-inline,
+.javascript-inline,
+.reactjs-inline,
+.nodejs-inline,
+.npm-inline {
+  display: inline-block;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+
+.software-skill-inline>i,
+.htm5-inline>i,
+.css3-inline>i,
+.sass-inline>i,
+.javascript-inline>i,
+.reactjs-inline>i,
+.nodejs-inline>i,
+.npm-inline>i {
+  color: #868e96;
+}
+
+.software-skill-inline>i:hover {
+  color: #645beb;
+}
+
+.htm5-inline>i:hover {
+  color: #DF4B25;
+}
+
+.css3-inline>i:hover {
+  color: #3596CF;
+}
+
+.sass-inline>i:hover {
+  color: #F895C6;
+}
+
+.javascript-inline>i:hover {
+  color: #EAD54C;
+}
+
+.reactjs-inline>i:hover {
+  color: #49CFF8;
+}
+
+.nodejs-inline>i:hover {
+  color: #8DC040;
+}
+
+.npm-inline>i:hover {
+  color: #DD2D35;
+}
+
+.software-skill-inline>p,
+.htm5-inline>p,
+.css3-inline>p,
+.sass-inline>p,
+.javascript-inline>p,
+.reactjs-inline>p,
+.nodejs-inline>p,
+.npm-inline>p {
+  color: #868e96;
+  font-size: 10px;
+}
+
+.software-skill-inline>i:hover~p {
+  color: #645beb;
+}
