@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1b5ffe353cb22a3456e7511b2fa27d6e",
+    "revision": "15b962f98ea7bf26a7526a85b9cd2db6",
     "url": "/voidbass_portfolio/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/voidbass_portfolio/static/css/3.3a26ebde.chunk.css"
   },
   {
-    "revision": "0fe8c550a18e68d9ea62",
+    "revision": "f7f0d4aa3e38a41ddace",
     "url": "/voidbass_portfolio/static/css/main.9328d553.chunk.css"
   },
   {
@@ -24,8 +24,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/voidbass_portfolio/static/js/3.b196e214.chunk.js"
   },
   {
-    "revision": "0fe8c550a18e68d9ea62",
-    "url": "/voidbass_portfolio/static/js/main.7d6da1ae.chunk.js"
+    "revision": "f7f0d4aa3e38a41ddace",
+    "url": "/voidbass_portfolio/static/js/main.f7f56171.chunk.js"
   },
   {
     "revision": "059be1defad82e37b375",
