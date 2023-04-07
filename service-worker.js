@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/voidbass_portfolio/precache-manifest.de8524a4d7306d600d71c9916ccb54e0.js"
+  "/voidbass_portfolio/precache-manifest.7619d31bf10f8bd36b40e972ae24815b.js"
 );
 
 self.addEventListener('message', (event) => {
